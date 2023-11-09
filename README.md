@@ -1,8 +1,11 @@
-# Speech-Enabled Arithmetic Trainer: Leveraging Voice Recognition to Enhance Learning and Mental Activity
+# Speech-Enabled Arithmetic Trainer: Leveraging Voice Recognition to Enhance Learning and Mental Acuity
 
 This is a Python app using Tkinter and SpeechRecognition modules.
 
 ![](screenshot.png)
+
+![image](https://github.com/Dhananjay-74x/Human-Computer-Interaction-HCI-Project/assets/86489966/a7a76fd4-5f40-4e0d-b38a-2b2e965e28ce)
+
 
 The drill game shows a single digit multiplication and wait for uttered answer
 (within 10 seconds).  Then the answer will be checked and the number of
