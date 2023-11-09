@@ -1,4 +1,4 @@
-# Speech-Enabled Arithmetic Trainer: Leveraging Voice Recognition to Enhance Learning and Mental Acuity
+# Speech-Enabled Arithmetic Trainer: Leveraging Voice Recognition to Enhance Learning and Mental Activity
 
 This is a Python app using Tkinter and SpeechRecognition modules.
 
